@@ -1,4 +1,4 @@
-# 3_2_Term
+# NVIDIA Jetson Project
 
 ## Parameters
 - dual_network.py
